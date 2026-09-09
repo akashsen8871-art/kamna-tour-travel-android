@@ -17,4 +17,6 @@ info@kamanatravels.com
 ## Cloud APK build
 GitHub Actions workflow at `.github/workflows/android-build.yml` builds a debug test APK and uploads it as an artifact named `Kamna-Tour-Travel-debug-apk`.
 
+Build trigger initialized on 9 September 2026.
+
 > This is a debug test build. Play Store production still needs secure owner authentication/backend, privacy policy, app signing, final AAB, and Play Console testing/review.
